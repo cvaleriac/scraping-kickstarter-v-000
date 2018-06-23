@@ -17,3 +17,4 @@ projects = {}
   end
 
   projects
+end
